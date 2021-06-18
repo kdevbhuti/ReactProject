@@ -1,0 +1,19 @@
+.red-Rectangle{
+    background-color: red;
+    position: absolute;
+    top: 25vh;
+    left: 25vw;
+    width: 50vw;
+    height: 50vh;
+    opacity: 0.5;
+}
+
+.green-Rectangle{
+    background-color: green;
+    position: absolute;
+    top: 25vh;
+    left: 25vw;
+    width: 50vw;
+    height: 50vh;
+    opacity: 0.5;
+}
